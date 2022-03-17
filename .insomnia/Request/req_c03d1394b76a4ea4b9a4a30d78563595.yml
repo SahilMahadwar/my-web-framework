@@ -1,0 +1,21 @@
+_id: req_c03d1394b76a4ea4b9a4a30d78563595
+type: Request
+parentId: fld_077645604e484425a3310b6ea76b71f2
+modified: 1647538293700
+created: 1647537931513
+url: http://localhost:4300/api/v1/users/7
+name: Delete User
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1647537861211.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

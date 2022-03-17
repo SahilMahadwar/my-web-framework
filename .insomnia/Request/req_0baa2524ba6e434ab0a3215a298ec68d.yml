@@ -1,0 +1,21 @@
+_id: req_0baa2524ba6e434ab0a3215a298ec68d
+type: Request
+parentId: fld_077645604e484425a3310b6ea76b71f2
+modified: 1647538289299
+created: 1647537928769
+url: http://localhost:4300/api/v1/users/7
+name: Update User
+description: ""
+method: PATCH
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1647537865036
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_712b4a26cf7d44109ee96ec91fc396d5
+type: Request
+parentId: wrk_40615ac5394b454f929a447dfe34f3aa
+modified: 1647537861420
+created: 1647537819451
+url: http://localhost:4300/api/v1
+name: Api Home
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1647537857387
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

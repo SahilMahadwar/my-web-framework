@@ -1,0 +1,29 @@
+_id: req_56a5678f6f3d4aec9cd25938e0ef6b37
+type: Request
+parentId: fld_077645604e484425a3310b6ea76b71f2
+modified: 1647542334427
+created: 1647537926563
+url: http://localhost:4300/api/v1/users
+name: Create New User
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "sup"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_65dfa39405244760b66b8d047b1c5e7f
+authentication: {}
+metaSortKey: -1647537872685
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
